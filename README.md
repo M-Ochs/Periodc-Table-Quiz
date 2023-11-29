@@ -20,7 +20,7 @@ This project was created for educational purposes as a Python 3 practice exercis
 ### Running the quiz
 
 ```bash
-git clone https://github.com/M-Ochs/Periodc-Table-Quiz.git
+git clone https://github.com/M-Ochs/Periodic-Table-Quiz.git
 ```
 
 ### License
